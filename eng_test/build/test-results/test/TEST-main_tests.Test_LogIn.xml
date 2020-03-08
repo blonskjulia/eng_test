@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="main_tests.Test_LogIn" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-08T09:39:15" hostname="DESKTOP-IS21LKA" time="14.281">
+  <properties/>
+  <testcase name="LogIn" classname="main_tests.Test_LogIn" time="7.507"/>
+  <testcase name="LogInErrorsForm" classname="main_tests.Test_LogIn" time="6.772"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[1583660356.032][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.133][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.234][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.336][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.527][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.629][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.731][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.833][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660356.936][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660357.037][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660357.139][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660357.241][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660357.343][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660357.447][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660357.992][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660358.271][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660358.574][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660358.676][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660358.779][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660363.577][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660364.513][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>

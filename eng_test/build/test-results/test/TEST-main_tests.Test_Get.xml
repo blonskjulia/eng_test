@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="main_tests.Test_Get" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-08T09:38:12" hostname="DESKTOP-IS21LKA" time="63.136">
+  <properties/>
+  <testcase name="GetStartedProcess" classname="main_tests.Test_Get" time="63.136"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[1583660295.798][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660295.900][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.001][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.103][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.204][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.305][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.496][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.597][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.699][SEVERE]: Timed out receiving message from renderer: 0.100
+[1583660296.809][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
